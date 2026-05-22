@@ -94,29 +94,6 @@ Analyzed how support resolution time influences customer retention outcomes.
 
 ---
 
-## Dashboard Preview
-
-### Main Dashboard
-(Add your dashboard screenshot here)
-
-```md
-![Dashboard](dashboard/dashboard.png)
-```
-
----
-
-## SQL Analysis Screenshots
-
-(Add your SQL screenshots here)
-
-Example:
-
-```md
-![SQL Query](sql_screenshots/query1.png)
-```
-
----
-
 ## Workflow
 
 1. Imported and explored SaaS datasets
